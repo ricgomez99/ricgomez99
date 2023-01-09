@@ -1,6 +1,6 @@
 ![MasterHead](https://suavesol.net/wp-content/uploads/2020/04/software-it-packages-banner.png)
 <h1 align="center">Hello!👋, I'm Andres Gomez</h1>
-<h3 align="center">An enthusiastic about web development</h3>
+<h3 align="center">Web Developer specialized in React, Next.js, TypeScript, and Express.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js 13 version**
 
-- 💬 Ask me about **React, Next.js, TypeScript, JavaScript, Node, Express, PostgreSql, Sequalize**
+- 💬 Ask me about **React, Next.js, Redux, TypeScript, JavaScript, Node, Express, PostgreSql, Sequalize**
 
 - 📫 How to reach me **ricardo.gomez.restrepo@gmail.com**
 
