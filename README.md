@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Tech e-commerce](https://github.com/ricgomez99/Api-Pokemon-SearchApp)
 
-- 🌱 I’m currently learning **Next.js 13 version**
+- 🌱 I’m currently learning **MongoDB, Mongoose**
 
 - 💬 Ask me about **React, Next.js, Redux, TypeScript, JavaScript, Node, Express, PostgreSql, Sequalize**
 
