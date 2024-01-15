@@ -24,14 +24,13 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-
-<h3>Badges</h3>
-
-[![An image of @ricgomez99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ricgomez99)](https://holopin.io/@ricgomez99)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricgomez99&show_icons=true&locale=en&layout=compact" alt="ricgomez99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricgomez99&show_icons=true&locale=en" alt="ricgomez99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricgomez99&" alt="ricgomez99" /></p>
+
+<h3>Badges</h3>
+
+[![An image of @ricgomez99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ricgomez99)](https://holopin.io/@ricgomez99)
 
