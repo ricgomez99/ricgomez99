@@ -1,16 +1,16 @@
 ![MasterHead](https://suavesol.net/wp-content/uploads/2020/04/software-it-packages-banner.png)
 <h1 align="center">Hello!👋, I'm Andres Gomez</h1>
-<h3 align="center">Full Stack Developer specialized in React, Node.js, JavaScript, SQL, and Express.</h3>
+<h3 align="center">Full Stack Developer specialized in React, React Native, Next.js, Node.js, Express, JavaScript, TypeScript, Python, MCP, MySQL, MongoDB, TailwindCSS, HTML and CSS.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricgomez99&label=Profile%20views&color=0e75b6&style=flat" alt="ricgomez99" /> </p>
 
-- 🔭 I’m currently working on [Tech e-commerce](https://github.com/ricgomez99/Api-Pokemon-SearchApp)
+- 🔭 I’m currently working on [MCP-Server](https://github.com/ricgomez99/mcp-file-converter)
 
-- 🌱 I’m currently learning **Java, Springboot**
+- 🌱 I’m currently learning **MCP, FastAPI, BigQueryt**
 
-- 💬 Ask me about **React, Next.js, Redux, TypeScript, JavaScript, Node, Express, SQL, MongoDB, mySQL, and TailwindCSS**
+- 💬 Ask me about **React, Next.js, Redux, TypeScript, JavaScript, Node, Express, SQL, MongoDB, mySQL, TailwindCSS, Python, React, React Native**
 
 - 📫 How to reach me **argomez.restrepo@gmail.com**
 
